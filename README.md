@@ -16,4 +16,4 @@
 <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"  />
 <div/><br/>
   
-Apaixonado por tecnologia, focado em ingressar e aperfeiçoar minha carreira como DEV e ajudar pessoas!!
+Apaixonado por tecnologia, focado em ingressar e aperfeiçoar minha carreira como DEV e ajudar pessoas👋!!
